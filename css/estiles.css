@@ -1,7 +1,14 @@
 body {
+
+    background-color: lightblue;
+    text-align: center;
     font-family: 'Roboto';
+    font-size: 40px;
+
 }
 
 h1 {
-    font-family: 'Roboto+Mono'
+    text-align: center;
+    font-family: 'Roboto+Mono';
+    font-size: 30px;
 }
