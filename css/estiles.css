@@ -4,7 +4,7 @@ body {
     text-align: center;
     font-family: 'Roboto';
     font-size: 40px;
-    border-radius: 6px;
+    border-radius: 10px;
 }
 
 h1 {
@@ -14,8 +14,9 @@ h1 {
 }
 
 .footer {
+    border-bottom: 3px;
     color: white;
-    background-color: #1b2127;
+    background-color: #0d447a;
     display: flex;
     align-items: center;
     justify-content: space-between;
